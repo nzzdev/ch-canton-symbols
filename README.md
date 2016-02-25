@@ -5,4 +5,4 @@ Symbols for swiss cantons based on their coat of arms. Initially they were thoug
 
 Contribute!
 
-![canton symbols in action](https://github.com/nzzdev/ch-canton-symbols/example.png)
+![canton symbols in action](https://raw.githubusercontent.com/nzzdev/ch-canton-symbols/master/example.png)
