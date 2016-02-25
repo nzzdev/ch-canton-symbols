@@ -1,0 +1,25 @@
+{
+  "name": "ch-canton-symbols",
+  "version": "1.0.0",
+  "description": "Symbols for all Swiss Cantons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "symbols"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nzzdev/ch-canton-symbols"
+  },
+  "author": "NZZ Storytelling <storytelling@nzz.ch> (https://storytelling.nzz.ch)",
+  "contributors": [
+    "Simon Wimmer"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nzzdev/ch-canton-symbols/issues"
+  },
+  "homepage": "https://github.com/nzzdev/ch-canton-symbols#readme"
+}
