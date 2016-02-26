@@ -1,6 +1,6 @@
 {
   "name": "ch-canton-symbols",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Symbols for all Swiss Cantons",
   "main": "index.js",
   "scripts": {
